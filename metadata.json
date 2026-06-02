@@ -1,0 +1,6 @@
+{
+  "name": "PowerPlayer",
+  "description": "Reproductor de audio de alta resolución con ecualizador paramétrico, temas personalizables y sincronización en la nube, inspirado en Poweramp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
